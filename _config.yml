@@ -35,3 +35,11 @@ sidebar_blog_link:  '/blog'     # By default, your home page is your blog
                                 # to enable a separate blog link.
 github:
   repo:             https://github.com/florianwanders/florianwanders.github.io
+  
+  
+#changes for portfolio
+collections:
+  portfolio:
+    output: true
+    permalink: /portfolio/:path/
+

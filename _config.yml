@@ -3,10 +3,10 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Setup
-title:            Hydeout
-tagline:          'A Jekyll theme'
-description:      'The <a href="http://hyde.getpoole.com" target="_blank">Hyde</a> theme for <a href="http://jekyllrb.com" target="_blank">Jekyll</a>, refreshed.'
-url:              https://fongandrew.github.io/hydeout
+title:            Florian Wanders
+tagline:          'Data Science & Digressions'
+description:      'Data Science & Digressions'
+url:              https://florianwanders.github.io
 baseurl:          # the optional subpath of your site, e.g. "/blog"
                   # NB: This applies to all pages in your Jekyll site.
                   # If you want to move just the blog index pages but keep
@@ -14,11 +14,11 @@ baseurl:          # the optional subpath of your site, e.g. "/blog"
                   # sidebar_blog_link below.
 
 author:
-  name:           'Andrew Fong'
-  url:            https://twitter.com/fongandrewc
+  name:           'Florian Wanders'
+  url:            https://twitter.com/florianwanders
 
 paginate:         5
-# paginate_path:    '/page:num'
+paginate_path:    /blog/page:num' #'/page:num'
                     # Or '/blog/page:num' if you want to move your index pages
 
 plugins:
@@ -29,9 +29,9 @@ plugins:
 # Custom vars
 version:            3.6.0
 sidebar_home_link:  true
-# sidebar_blog_link:  '/blog'   # By default, your home page is your blog
+sidebar_blog_link:  '/blog'     # By default, your home page is your blog
                                 # page. If you change your paginate_path,
                                 # set this to the root of the paginate_path
                                 # to enable a separate blog link.
 github:
-  repo:             https://github.com/fongandrew/hydeout
+  repo:             https://github.com/florianwanders/florianwanders.github.io

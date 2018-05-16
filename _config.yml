@@ -37,9 +37,5 @@ github:
   repo:             https://github.com/florianwanders/florianwanders.github.io
   
   
-#changes for portfolio
-collections:
-  portfolio:
-    output: true
-    permalink: /portfolio/:path/
+
 

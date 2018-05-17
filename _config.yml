@@ -25,6 +25,7 @@ plugins:
   - jekyll-feed
   - jekyll-gist
   - jekyll-paginate
+  - jekyll-seo-tag
 
 # Custom vars
 sidebar_home_link:  false
@@ -41,4 +42,25 @@ collections:
   portfolio:
     output: true
     permalink: /portfolio/:path/
+	
+#seo
+twitter:
+  username: florianwanders
+  card: summary
+ 
+logo: logo.png
+ 
+social:
+  name: Florian Wanders
+  links:
+    - https://twitter.com/florianwanders
+    - https://nl.linkedin.com/in/florianwanders
+    - https://github.com/florianwanders/florianwanders.github.io
+    - https://twitter.com/florianwanders
+    - http://www.uva.nl/en/profile/w/a/f.wanders/f.wanders.html
+   
+lang: en_US
+
+google_site_verification: 9_UR_nbNp9XZg23L1J_lZbgkNIbUOihH77J9iM5gJ9M
+ 
 

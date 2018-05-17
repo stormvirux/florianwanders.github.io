@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  
+  {% include head.html %}
+
+  <body class="{{ page.layout }}{% if page.url == '/' %} home{% endif %}">
+
+    {% include sidebar.html %}
+
+    <main class="container footercontainer">
+	
+		<div class="row content">
+			{{ content }}
+		</div>  
+		
+		<div class="row footer content">
+			<p>&#42; Title inspired by the <!-- <a href="https://twitter.com/@multiarmbandit">Katie</a> and <a href="https://twitter.com/benjaffe">Ben's</a> wonderful --> podcast <a title="Podcast LinearDigressions" href="http://lineardigressions.com">Linear Digressions</a></p>
+		</div>
+	
+	</main>
+
+  </body>
+</html>

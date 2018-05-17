@@ -1,0 +1,22 @@
+// Footer
+//
+// Custom footer without hydeout's footer
+
+
+/*for trouble shooting
+.container .row {
+  border: 1px dotted grey;
+}
+*/
+
+.container{
+  padding-bottom:0;
+}
+
+.container .row.content {
+  flex: 1 1 auto;
+}
+
+.container .row.footer {
+  flex: 0 1 2rem;
+}

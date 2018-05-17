@@ -42,7 +42,7 @@ collections:
   portfolio:
     output: true
     permalink: /portfolio/:path/
-	
+
 #seo
 twitter:
   username: florianwanders

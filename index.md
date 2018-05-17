@@ -9,9 +9,6 @@ Hi! I'm Florian Wanders, a PhD candidate in organizational psychology with ambit
 
 {% include portfolio.html %}
 
-
-
-
 &#42; Title inspired by the <!-- <a href="https://twitter.com/@multiarmbandit">Katie</a> and <a href="https://twitter.com/benjaffe">Ben's</a> wonderful --> podcast <a href="http://lineardigressions.com">Linear Digressions</a>.
 
 

@@ -4,7 +4,7 @@ title: Home
 ---
 
 
-Hi! I'm Florian Wanders, a PhD candidate in organizational psychology with ambitions to become a data scientist. My way there includes a number of digressions that I plan to share on here. 
+Hi! I'm Florian Wanders, a PhD candidate in organizational psychology at the <a title="University Profile" href="http://www.uva.nl/profiel/w/a/f.wanders/f.wanders.html">University of Amsterdam</a> with ambitions to become a data scientist. My way there includes a number of digressions that I plan to share on here. 
 
 
 {% include portfolio.html %}

@@ -5,7 +5,7 @@ highlighter:      rouge
 # Setup
 title:            Florian Wanders
 tagline:          'Data Science & Digressions'
-description:      'Data Science & Digressions*'
+description:      'Data Science & Digressions&#42;'
 url:              https://florianwanders.github.io
 baseurl:          # the optional subpath of your site, e.g. "/blog"
                   # NB: This applies to all pages in your Jekyll site.

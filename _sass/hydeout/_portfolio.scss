@@ -69,6 +69,23 @@ font-size: $subcaption_font_size;
  * Modifications for hydeout *************************************************
 */
 
+
+/* settings for phone and tablet*/
+@media (max-width: 49rem) {
+	.thumbnail a span {
+		/*align content vertically: change from block to flex*/
+		display: flex;
+		flex-direction: column;
+		vertical-align: top;
+		justify-content: center;
+	}
+
+	.thumbnail a:hover span {
+	background-color:rgba(0,0,0,0.6);
+	}
+}
+
+
 .thumbnail a:hover span {
 /*align content vertically: change from block to flex*/
 display: flex;

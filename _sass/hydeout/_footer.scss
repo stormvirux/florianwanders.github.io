@@ -9,14 +9,25 @@
 }
 */
 
+
+
+
 .container{
   padding-bottom:0;
 }
 
 .container .row.content {
   flex: 1 1 auto;
+  padding:0;
 }
 
 .container .row.footer {
   flex: 0 1 2rem;
 }
+
+@media (max-width: $large-breakpoint) {
+.container .row.footer {
+  padding: 0 2em 0 2em;
+}
+}
+

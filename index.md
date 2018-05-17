@@ -10,3 +10,8 @@ I'm Florian Wanders, a <a title="University Profile" href="http://www.uva.nl/en/
 
 
 {% include portfolio.html %}
+
+
+<script type="text/javascript">
+    on_index = true;
+</script>

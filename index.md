@@ -4,12 +4,12 @@ title: Home
 ---
 
 
-Hi! I'm Florian Wanders, a PhD candidate in organizational psychology at the <a title="University Profile" href="http://www.uva.nl/profiel/w/a/f.wanders/f.wanders.html">University of Amsterdam</a> with ambitions to become a data scientist. My way there includes a number of digressions that I plan to share on here. 
+Hi! I'm Florian Wanders, a <a title="University Profile" href="http://www.uva.nl/en/profile/w/a/f.wanders/f.wanders.html">PhD candidate in organizational psychology</a> with ambitions to become a data scientist. My way there includes a number of digressions that I plan to share on here. 
 
 
 {% include portfolio.html %}
 
-&#42; Title inspired by the <!-- <a href="https://twitter.com/@multiarmbandit">Katie</a> and <a href="https://twitter.com/benjaffe">Ben's</a> wonderful --> podcast <a href="http://lineardigressions.com">Linear Digressions</a>.
+&#42; Title inspired by the <!-- <a href="https://twitter.com/@multiarmbandit">Katie</a> and <a href="https://twitter.com/benjaffe">Ben's</a> wonderful --> podcast <a title="Podcast LinearDigressions" href="http://lineardigressions.com">Linear Digressions</a>.
 
 
 <!--

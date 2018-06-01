@@ -29,10 +29,11 @@ plugins:
 
 # Custom vars
 sidebar_home_link:  false
-sidebar_blog_link:  false #'/blog'     # By default, your home page is your blog
+sidebar_blog_link:  '/blog'     # By default, your home page is your blog
                                 # page. If you change your paginate_path,
                                 # set this to the root of the paginate_path
                                 # to enable a separate blog link.
+                                # set to false if you do not want a blog.
 github:
   repo:             https://github.com/florianwanders/florianwanders.github.io
   
@@ -64,3 +65,6 @@ lang: en_US
 google_site_verification: 9_UR_nbNp9XZg23L1J_lZbgkNIbUOihH77J9iM5gJ9M
  
 
+#comments
+disqus:
+    shortname: florianwanders-github-io
